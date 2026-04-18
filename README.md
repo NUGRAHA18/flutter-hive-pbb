@@ -33,6 +33,7 @@ Aplikasi manajemen data mahasiswa berbasis Flutter yang menggunakan **Hive** seb
 
 - **Flutter** — Framework UI cross-platform
 - **Dart** — Bahasa pemrograman
+- 
 - **Hive** — Database lokal NoSQL (key-value store, lebih cepat dari SQLite untuk data sederhana)
 - **hive_flutter** — Integrasi Hive dengan Flutter (init path, listenable)
 - **Material Design 3** — Sistem desain UI
